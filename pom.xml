@@ -29,13 +29,13 @@
 
 	</properties>
 
-	<!-- <repositories>
+	<repositories>
 		<repository>
 		      <id>nexus</id>
 		      <name>Group Repository - Ganesh Software Solutions</name>
 		      <url>http://3.110.177.105:9091/ganeshreddysoftwaresolutions/repository/mavenjavaapplication-remoterepository/</url>
 	      </repository>
-	</repositories> -->
+	</repositories>
 
 
 	<dependencies>
@@ -121,7 +121,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Ganesh Software Solutions Snapshot Nexus Repository </name>
-	      <url>http://3.110.177.105:9091/ganeshreddysoftwaresolutions/repository/mavenjavaapplication-releaserepo/</url>
+	      <url>http://3.110.177.105:9091/ganeshreddysoftwaresolutions/repository/mavenjavaapplication-snapshotrepo/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
