@@ -29,7 +29,7 @@
 
 	</properties>
 
-	<--!<repositories>
+	<!--<repositories>
 		<repository>
 		      <id>nexus</id>
 		      <name>Group Repository - Ganesh Software Solutions</name>
